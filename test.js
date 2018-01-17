@@ -1,0 +1,1 @@
+globeView.controls.setZoom(15);
